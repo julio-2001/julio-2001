@@ -8,7 +8,7 @@
   <a href="https://github.com/julio-2001">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=julio-2001&count_private=true&locale=pt-BR&show_icons=true&theme=radical&title_color=628fda&icon_color=0ad46bff&text_color=fbf9f9ff&bg_color=000000&include_all_commits=true&count_private=true")/>
 
- <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=julio-2001&layout=compact&theme=radical&bg_color=000000&title_color=618ed9&text_color=faf8f8&locale=pt-BR"/>  
+ <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=julio-2001&layout=compact&theme=dark&bg_color=000000&title_color=618ed9&text_color=faf8f8&locale=pt-BR"/>  
     
 </div>
   
