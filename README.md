@@ -44,8 +44,7 @@
 
 ##
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=julio-2001&theme=gotham&hide_border=true&area=true&)
-
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-2001&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
   
 <div >
     <a  href="https://www.linkedin.com/in/julio-martins2001/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-  badge&logo=linkedin&logoColor=white"  target="_blank"></a>
