@@ -26,6 +26,7 @@
    <img title="React" align="center" alt="React" height="30" width="40" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Typescript" align="center" alt="Typescript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img title="Jquery" align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   
   <img title="Python" align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
         
@@ -34,9 +35,8 @@
   #### Aprendendo:
   
   <div>
-   <img title="Node.JS" align="center" alt="Node.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img title="Vue.JS" align="center" alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-  <img title="Angular.JS" align="center" alt="Angular.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<img title="Electron" align="center" alt="Electron" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/>
   <img title="Php" align="center" alt="Php" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
       
 </div>
