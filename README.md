@@ -44,7 +44,7 @@
 
 ##
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-2001&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=julio-2001&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
 <div >
     <a  href="https://www.linkedin.com/in/julio-martins2001/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-  badge&logo=linkedin&logoColor=white"  target="_blank"></a>
