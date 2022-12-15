@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2e7fec&size=35&center=true&vCenter=true&width=1000&lines=Olá,+MEU+NOME+É+JULIO+GABRIEL+SANTOS+MARTINS;+tenho+22+Anos;Moro+Em+Barueri,+SP;E+Estou+Estudando+Na+NewTab+Academy;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=julio-2001-github-username&style=for-the-badge)
+
 <h1> Desenvolvedor: Front End </h1>
 
 
